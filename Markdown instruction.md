@@ -25,6 +25,9 @@
 Чтобы вставить изображение в текст, достаточно написать следующее:
 ![Привет, это кофейная ветка!](coffee.jpg)
 ## Ссылки
+Для того, что бы добавить ссылку в наш файл необходимо написать следующее: 
+
+**Это [ссылка](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html) Синтаксиса языка MD.**
 
 ## Работа с таблицами
 
